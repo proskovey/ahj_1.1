@@ -3,4 +3,4 @@
 [Ссылка на задание](https://github.com/netology-code/ahj-homeworks/tree/video/env)
 
 
-![CI](https://github.com/proskovey/ahj_1.1/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/proskovey.github.io/ahj_1.1/actions/workflows/web.yml/badge.svg)
